@@ -4,6 +4,9 @@ Generative Adversarial Network (GAN)
 ## Introduction
 This repository contains research on learning outcomes regarding GAN, as well as various sources that can be used as references.
 
+## Ways of working
+<img src="https://kikaben.com/gangenerative-adversarial-network-simple-implementation-with-pytorch/images/thumbnail.png"/>
+
 ### Example Model
 <ul>
   <li><a href="https://github.com/shubham7169/Projects/blob/master/CAT-dcgan.ipynb">Model Cat DCGAN</a></li>
