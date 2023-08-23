@@ -7,6 +7,13 @@ This repository contains research on learning outcomes regarding GAN, as well as
 ## Ways of working
 <img src="https://kikaben.com/gangenerative-adversarial-network-simple-implementation-with-pytorch/images/thumbnail.png"/>
 
+<img src="https://kikaben.com/gangenerative-adversarial-network-simple-implementation-with-pytorch/images/real-mnist-image.png"/>
+<p>Real images from MNIST dataset</p>
+<img src="https://kikaben.com/gangenerative-adversarial-network-simple-implementation-with-pytorch/images/generator-fake-image.png"/>
+<p>Fake images from the generator</p>
+
+<img src="https://kikaben.com/gangenerative-adversarial-network-simple-implementation-with-pytorch/images/discriminator.png"/>
+
 ### Example Model
 <ul>
   <li><a href="https://github.com/shubham7169/Projects/blob/master/CAT-dcgan.ipynb">Model Cat DCGAN</a></li>
