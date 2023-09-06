@@ -22,7 +22,8 @@ This repository contains research on learning outcomes regarding GAN, as well as
   
 ### References
 <ul>
-  <li><a href="https://kikaben.com/gangenerative-adversarial-network-simple-implementation-with-pytorch/">GAN (Generative Adversarial Network)</a></li>
+  <li><a href="https://kikaben.com/gangenerative-adversarial-network-simple-implementation-with-pytorch">GAN (Generative Adversarial Network)</a></li>
   <li><a href="https://github.com/eriklindernoren/PyTorch-GAN">Example Paper and Code with GAN</a></li>
+  <li><a href="https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection">Dataset Real Fake Face</a></li>
   <li><a href="https://github.com/wiseodd/generative-models">Generative Models</a></li>
 </ul>
